@@ -43,7 +43,7 @@ container {
     display: grid;
 
     margin: 1.5rem 6.5rem;
-    gap: .2rem ;
+    gap: 5px ;
     grid-template-areas:
     "photo-01 photo-01"
     "photo-02 photo-03";
